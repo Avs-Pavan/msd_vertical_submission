@@ -51,19 +51,6 @@ Devel need some configuration to start.
 
 ![App Screenshot](https://raw.githubusercontent.com/kevinOcconer/msd_vertical_submission/main/Screenshot%202022-03-21%20at%208.32.27%20PM.png)
 
-
-## Deployment
-
-To use Devil import the SDK and initialize in your Application class.
-
-Devel need some configuration to start.
-- isLocalEnabled - Enable and disable Local logs.
-- isRealTimeEnabled -  Enable or disable Remote logging in real time.
-- UserId - Used to identifiy a specific user.
-
-![App Screenshot](https://raw.githubusercontent.com/kevinOcconer/msd_vertical_submission/main/Screenshot%202022-03-21%20at%208.32.27%20PM.png)
-
-
 ## Enable Devil network monitoring
 
 Devil has a custom inbuild network interceptor that can be plugged into your Netwokting library.<br>
