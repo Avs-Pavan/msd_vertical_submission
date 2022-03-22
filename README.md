@@ -28,3 +28,17 @@ Can give more data on api bottle necks. <br>
 Filtering out individual user logs in realtime<br>
 Can be easily implemented for other platforms as well.<br>
 
+
+## Features
+
+- Devil - Class provides main API's to use Devil. 
+- RemoteDevil - Processes and manages sending messages to server.
+- Devil Store - Managing message queing when Devil is not connected to server.  
+- DevilNetworkInterceptor - Intercept network calls in the application and produce logs and push to Devil.
+- Hermes - A messaging module used to send and receive messages.
+- Hermes Async - Module to implement Push notifications in the application.
+
+
+
+
+
