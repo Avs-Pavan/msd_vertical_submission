@@ -41,7 +41,7 @@ Once your plugin the DevilNetworkInterceptor into your Network it will monitor t
 ## Completed modules till now:
 
 - Devil
-- RemoteDeveil
+- RemoteDevil
 - Devil store
 - DevilNetworkInterceptor
 
