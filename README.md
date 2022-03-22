@@ -39,6 +39,12 @@ Can be easily implemented for other platforms as well.<br>
 - Hermes Async - Module to implement Push notifications in the application.
 
 
+## Devil heavily relies on below libraries.
+
+ - [Paho mqtt for android by eclipse](https://github.com/eclipse/paho.mqtt.android)
+ - [RxJava by Reactive](https://github.com/ReactiveX/RxJava)
+
+
 
 
 
