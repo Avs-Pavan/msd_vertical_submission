@@ -25,6 +25,7 @@ Devel need some configuration to start.
 
 ![App Screenshot](https://raw.githubusercontent.com/kevinOcconer/msd_vertical_submission/main/Screenshot%202022-03-21%20at%208.32.27%20PM.png)
 
+
 ## Enable Devil network monitoring
 
 Devil has a custom inbuild network interceptor that can be plugged into your Netwokting library.<br>
@@ -32,6 +33,9 @@ A simple usage example with Retrofit and OkHttClient is shown below.
 ![App Screenshot](https://raw.githubusercontent.com/kevinOcconer/msd_vertical_submission/main/Screenshot%202022-03-21%20at%209.55.42%20PM.png)
 
 Once your plugin the DevilNetworkInterceptor into your Network it will monitor the network and log events to console and server.
+
+## Basic Devil usage to log events.
+![App Screenshot](https://raw.githubusercontent.com/kevinOcconer/msd_vertical_submission/main/Screenshot%202022-03-21%20at%208.34.05%20PM.png)
 
 
 ## Completed modules till now:
@@ -44,7 +48,6 @@ Once your plugin the DevilNetworkInterceptor into your Network it will monitor t
  ## Pending tasks for the completion of SDK.
  - Hermes 
  - Hermes Async
-
 
 ## Devil heavily relies on below libraries.
 
