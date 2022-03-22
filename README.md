@@ -18,7 +18,7 @@ Built up on Mqtt - primarily designed for low speed networks.
 
 To use Devil import the SDK and initialize in your Application class.
 
-Devel need some configuration to start.
+Devil need some configuration to start.
 - isLocalEnabled - Enable and disable Local logs.
 - isRealTimeEnabled -  Enable or disable Remote logging in real time.
 - UserId - Used to identifiy a specific user.
