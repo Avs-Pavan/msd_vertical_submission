@@ -2,6 +2,7 @@
 Real time logger for android.<br>
 Built up on Mqtt - primarily designed for low speed networks.
 
+[![](https://jitpack.io/v/kevinOcconer/KDevil.svg)](https://jitpack.io/#kevinOcconer/KDevil)
 
 ## Features
 
