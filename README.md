@@ -45,10 +45,6 @@ Once your plugin the DevilNetworkInterceptor into your Network it will monitor t
 - Devil store
 - DevilNetworkInterceptor
 
- ## Pending tasks for the completion of SDK.
- - Hermes 
- - Hermes Async
-
 ## Devil heavily relies on below libraries.
 
  - [Paho mqtt for android by eclipse](https://github.com/eclipse/paho.mqtt.android)
