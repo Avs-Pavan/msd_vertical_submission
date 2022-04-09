@@ -13,11 +13,21 @@ Built up on Mqtt - primarily designed for low speed networks.
 - Hermes - A messaging module used to send and receive messages.
 - Hermes Async - Module to implement Push notifications in the application.
 
-## Video demo showing Devil connecting with partner application and logs
+## Video demo showing Devil connecting with partner application and showing logs in realtime.
 https://user-images.githubusercontent.com/103298288/162556655-004ed161-1265-4084-be5b-24ee07603df8.mp4
 
 ## Deployment
 
+Step 1. Add the JitPack repository to your build file
+
+```groovy 
+allprojects {
+		repositories {
+			...
+			maven { url 'https://jitpack.io' }
+		}
+	}
+ ```
 To use Devil import the SDK and initialize in your Application class.
 
 Devil need some configuration to start.
