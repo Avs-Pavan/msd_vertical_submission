@@ -28,6 +28,15 @@ allprojects {
 		}
 	}
  ```
+ 
+ Step 2. Add the dependency
+
+```groovy
+dependencies {
+	        implementation 'com.github.kevinOcconer:KDevil:Tag'
+	}
+```
+
 To use Devil import the SDK and initialize in your Application class.
 
 Devil need some configuration to start.
