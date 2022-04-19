@@ -58,6 +58,8 @@ Once your plugin the DevilNetworkInterceptor into your Network it will monitor t
 ## Basic Devil usage to log events.
 ![App Screenshot](https://raw.githubusercontent.com/kevinOcconer/msd_vertical_submission/main/Screenshot%202022-03-21%20at%208.34.05%20PM.png)
 
+## Basic Hermes usage to send a message to admin - used to make a chat module for client support.
+![App Screenshot](https://raw.githubusercontent.com/kevinOcconer/msd_vertical_submission/main/Screenshot%202022-04-18%20at%209.12.05%20PM.png)
 
 ## Completed modules till now:
 
@@ -65,6 +67,7 @@ Once your plugin the DevilNetworkInterceptor into your Network it will monitor t
 - RemoteDevil
 - Devil store
 - DevilNetworkInterceptor
+- Hermes
 
 ## Devil heavily relies on below libraries.
 
