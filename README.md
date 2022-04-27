@@ -74,7 +74,30 @@ Once your plugin the DevilNetworkInterceptor into your Network it will monitor t
  - [Paho mqtt for android by eclipse](https://github.com/eclipse/paho.mqtt.android)
  - [RxJava by Reactive](https://github.com/ReactiveX/RxJava)
 
+## COSC 6362 Mobile Software Development
 
+## Instructor 
+ - Dr. Mamta Yadav 
 
+## Team members:
+ 
+ - Venkata Sai Pavan Arepalli
+ - Avinash Kotta
+ - Vineeth Rao Vemula
 
+ ## ROLES & RESPONSIBILITIES 
 
+ ## Role1
+ - Team leader to look over the project for overseeing timely deliverables and submissions in the project. (A.v.s.Pavan)
+ ## Role2
+ - Communicating with the Instructor (Vineeth Vemula, Avinash Kotta)
+## Role3
+- The Layout Design (Architecture) (Avinash Kotta)
+## Role4
+- User interface Design (Vineeth Vemula)
+## Role5
+- Working on Code (Java, Kotlin) as developer (A.v.s.Pavan)
+## Role6
+- Web Ad and other services (Avinash Kotta, Vineeth Vemula)
+## Role7
+- Implementation Tasks like Testing (Vineeth & Avinash)
