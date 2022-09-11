@@ -99,5 +99,5 @@ Once your plugin the DevilNetworkInterceptor into your Network it will monitor t
 - Working on Code (Java, Kotlin) as developer (A.v.s.Pavan)
 ## Role6
 - Web Ad and other services (Avinash Kotta, Vineeth Vemula)
-## Role7.    
+## Role7.        
 - Implementation Tasks like Testing (Vineeth & Avinash)
